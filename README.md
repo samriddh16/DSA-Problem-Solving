@@ -24,16 +24,18 @@ This repository contains my solutions to **Data Structures and Algorithms proble
 
 | Topic | Problems Solved |
 |------|----------------|
-| Arrays & Matrices | 10 |
+| Arrays & Matrices | 17 |
 | Strings | 0 |
 | Linked List | 0 |
+| Binary Search | 3 |
 | Trees | 0 |
 | Dynamic Programming | 0 |
 | Sliding Window | 0 |
 | Greedy | 0 |
 | Heap / Priority Queue | 0 |
 | Graphs | 0 |
-| Recursion / Backtracking | 0 |
+| Recursion | 0 |
+| Backtracking | 0 |
 
 ## 📁 Structure
 Problems are organized by topic to make navigation and revision easier.
