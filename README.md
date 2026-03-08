@@ -24,11 +24,12 @@ This repository contains my solutions to **Data Structures and Algorithms proble
 
 | Topic | Problems Solved |
 |------|----------------|
-| Arrays & Matrices | 17 |
+| Arrays & Matrices | 24 |
 | Strings | 0 |
 | Linked List | 0 |
 | Binary Search | 3 |
 | Trees | 0 |
+| Divide And Conquer | 3 |
 | Dynamic Programming | 0 |
 | Sliding Window | 0 |
 | Greedy | 0 |
