@@ -1,0 +1,15 @@
+public class Str12_DeleteColumnsToMakeSorted {
+    public static void main(String[] args) {
+        String[] strs = {"cba","daf","ghi"};
+        int d_count = 0;
+        for(int i=0; i<strs[0].length(); i++){
+            for(int j=0; j<strs.length-1; j++){
+                if(strs[j].charAt(i) > strs[j+1].charAt(i)){
+                    d_count++;
+                    break;
+                }
+            }
+        }
+        System.out.println(d_count);
+    }
+}
