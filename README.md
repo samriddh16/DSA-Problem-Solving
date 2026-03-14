@@ -24,9 +24,9 @@ This repository contains my solutions to **Data Structures and Algorithms proble
 
 | Topic | Problems Solved |
 |------|----------------|
-| Arrays & Matrices | 35 |
+| Arrays & Matrices | 40 |
 | Strings | 16 |
-| Linked List | 0 |
+| Linked List | 3 |
 | Binary Search | 6 |
 | Trees | 0 |
 | Divide And Conquer | 3 |
